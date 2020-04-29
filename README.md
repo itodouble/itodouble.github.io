@@ -12,3 +12,8 @@
 [nginx反向代理](nginx/nginx反向代理.html)
 
 [nginx负载均衡](nginx/nginx负载均衡.html)
+
+
+### memcached
+
+[mdmcached添加服务脚本](memcached/mdmcached添加服务脚本)
