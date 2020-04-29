@@ -5,4 +5,6 @@
 
 ### nginx
 
+[nginx代理.html](nginx代理)
+
 [nginx反向代理.html](nginx反向代理)
