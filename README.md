@@ -1,6 +1,5 @@
-# Initial page
+# 笔记
 
+[]
 
-测试
-
-[dd.html](dd.md)
+[redis数据类型.html](redis数据类型)
