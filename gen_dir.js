@@ -15,7 +15,7 @@ if (platform.lastIndexOf('win')>-1){
 	defaultSplitType='/'
 }
 
-fs.writeFileSync(genFileName, "Hello world");
+fs.writeFileSync(genFileName, "");
 
 function getDirTree(dir, parentDir) {
   let obj = {
@@ -55,9 +55,11 @@ function getDirTree(dir, parentDir) {
 			relativePath: parentDir+"./"+file
 		});
     } else {
-		// 在当前文件夹的对象下 childDir 属性(1)，以文件夹名作为key(2)，
-		// (2)的值是该目录下 路径dir、childFiles子文件、childDir子文件夹组成的对象或null
-		obj.childDir[dirname] = getDirTree(`${dir}${defaultSplitType}${file}`, `${file}`);
+	    if (file.indexOf('.')!=0){
+		    // 在当前文件夹的对象下 childDir 属性(1)，以文件夹名作为key(2)，
+		    // (2)的值是该目录下 路径dir、childFiles子文件、childDir子文件夹组成的对象或null
+		    obj.childDir[dirname] = getDirTree(`${dir}${defaultSplitType}${file}`, `${file}`);
+	    }
     }
   });
 
