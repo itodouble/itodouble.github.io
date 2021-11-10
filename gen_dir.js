@@ -6,6 +6,7 @@ const platform = os.platform();
 let genPath=resolve('./')
 
 let genFileName='READEME.md'
+let ignoreFile=['_config.yml','gen_dir.js']
 
 
 let firstRun = true; // getDirTree首次执行
@@ -44,7 +45,9 @@ function getDirTree(dir, parentDir) {
 
     if (isFile(`${dir}/${file}`)) {
     	if (parentDir.length==0){
-    		write(file, '.')
+		if (!ignoreFile.includes(file)){
+			write(file, '.')
+		}
     	} else {
     		write(file, './'+parentDir)
     	}
@@ -55,6 +58,7 @@ function getDirTree(dir, parentDir) {
 			relativePath: parentDir+"./"+file
 		});
     } else {
+	    // 忽略隐藏目录
 	    if (file.indexOf('.')!=0){
 		    // 在当前文件夹的对象下 childDir 属性(1)，以文件夹名作为key(2)，
 		    // (2)的值是该目录下 路径dir、childFiles子文件、childDir子文件夹组成的对象或null
