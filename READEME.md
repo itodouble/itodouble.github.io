@@ -1,5 +1,3 @@
-[READEME](./READEME.html)
-
 ### apache和tomcat
 
 [Apache URL 重写](./apache和tomcat/Apache URL 重写.html)
