@@ -103,7 +103,6 @@ function write(fileName,filePath){
 		fileName = fileName.substr(0, tempFileName.lastIndexOf('.md'))
 	}
 	let str = '['+fileName+']('+filePath+'/'+fileName+'.html)\n\n';
-	console.log(str);
 
 	fs.appendFile(genFileName, str, (err) => {
 	  if (err) {
