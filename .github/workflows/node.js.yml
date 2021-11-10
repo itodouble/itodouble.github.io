@@ -20,4 +20,17 @@ jobs:
       uses: actions/setup-node@v2
     - run: |
         node gen_dir.js
-        git push
+     
+     
+     
+    - name: commit
+      run: |
+        git config --global user.email itodouble@outlook.com
+        git config --global user.name itodouble
+        git add 'READEME.md'
+        git commit -m "update" -a
+		
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ PAGES_ACCESS_TOKEN }}
