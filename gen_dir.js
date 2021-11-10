@@ -6,7 +6,7 @@ const platform = os.platform();
 let genPath=resolve('./')
 
 let genFileName='READEME.md'
-let ignoreFile=['_config.yml','gen_dir.js']
+let ignoreFile=['_config.yml','gen_dir.js','READEME.md','reademe.md','index.html']
 
 
 let firstRun = true; // getDirTree首次执行
