@@ -62,6 +62,7 @@ function getDirTree(dir, parentDir) {
 	    if (file.indexOf('.')!=0){
 		    // 在当前文件夹的对象下 childDir 属性(1)，以文件夹名作为key(2)，
 		    // (2)的值是该目录下 路径dir、childFiles子文件、childDir子文件夹组成的对象或null
+		    write(file,null,true)
 		    obj.childDir[dirname] = getDirTree(`${dir}${defaultSplitType}${file}`, `${file}`);
 	    }
     }
@@ -103,7 +104,17 @@ function getDirName(dir) {
   return dir.substr(dir.lastIndexOf("\\") + 1, dir.length);
 }
 
-function write(fileName,filePath){
+function write(fileName,filePath, dirFlag){
+	if (dirFlag){
+		let str = '### '+fileName+'\n\n';
+		fs.appendFile(genFileName, str, (err) => {
+			if (err) {
+			console.error(err)
+			return
+			}
+		})
+		return;
+	}
 	let tempFileName = fileName.toLowerCase();
 	if (tempFileName.lastIndexOf('.md')>0){
 		fileName = fileName.substr(0, tempFileName.lastIndexOf('.md'))
