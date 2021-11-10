@@ -20,9 +20,6 @@ jobs:
       uses: actions/setup-node@v2
     - run: |
         node gen_dir.js
-     
-     
-     
     - name: commit
       run: |
         git config --global user.email itodouble@outlook.com
@@ -33,4 +30,4 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ PAGES_ACCESS_TOKEN }}
+        github_token: ${{ secrets.github-pages-access-token }}
