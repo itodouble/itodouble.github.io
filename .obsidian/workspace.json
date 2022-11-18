@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f15117cb88c1935a",
+        "id": "a89917aa6b65a97f",
         "type": "tabs",
         "children": [
           {
-            "id": "198f6edcc2bd9f82",
+            "id": "66058e0c4ee3ea93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/从JDK8到JDK17的新特性.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/从JDK8到JDK17的新特性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/从JDK8到JDK17的新特性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,23 +118,22 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "java/从JDK8到JDK17的新特性.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "198f6edcc2bd9f82",
+  "active": "66058e0c4ee3ea93",
   "lastOpenFiles": [
-    "redis/redis数据类型.md",
+    "memcached/memcached启动.md",
+    "memcached/memcached添加服务脚本.md",
     "java/从JDK8到JDK17的新特性.md",
+    "redis/redis数据类型.md",
     "收藏夹.md",
     "READEME.md"
   ]
