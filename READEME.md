@@ -12,6 +12,10 @@
 
 [关于Apache mod_rewrite的中文配置、使用和语法介绍（实现URL重写和防盗链功能）](./apache和tomcat/关于Apache mod_rewrite的中文配置、使用和语法介绍（实现URL重写和防盗链功能）.html)
 
+### java
+
+[从JDK8到JDK17的新特性](./java/从JDK8到JDK17的新特性.html)
+
 ### linux
 
 [&和&&｜和¦和¦¦](./linux/&和&&｜和¦和¦¦.html)
