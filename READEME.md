@@ -140,11 +140,11 @@
 
 [maven打包跳过测试](./maven/maven打包跳过测试.html)
 
-### mdmcached
+### memcached
 
-[mdmcached添加服务脚本](./mdmcached/mdmcached添加服务脚本.html)
+[memcached启动](./memcached/memcached启动.html)
 
-[memcached启动](./mdmcached/memcached启动.html)
+[memcached添加服务脚本](./memcached/memcached添加服务脚本.html)
 
 ### nginx
 
