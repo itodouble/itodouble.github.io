@@ -162,6 +162,8 @@
 
 [redis数据类型](./redis/redis数据类型.html)
 
+[reject.txt](./reject.txt.html)
+
 ### 前端
 
 [JS字符串替换](./前端/JS字符串替换.html)
