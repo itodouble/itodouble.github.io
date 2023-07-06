@@ -156,6 +156,8 @@
 
 [nginx负载均衡](./nginx/nginx负载均衡.html)
 
+[proxy.txt](./proxy.txt.html)
+
 ### redis
 
 [redis在传统springMVC中的使用](./redis/redis在传统springMVC中的使用.html)
