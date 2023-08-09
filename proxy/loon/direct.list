@@ -1,3 +1,8 @@
+# 直连 不走代理
+# 更新：2023-8-9 11:24:36
+# 个人已知域名
 DOMAIN-SUFFIX,itodouble.top
 DOMAIN-SUFFIX,icyber.top
+DOMAIN-SUFFIX,imok.tech
+# 国内厂商
 DOMAIN-SUFFIX,aliyun.com
