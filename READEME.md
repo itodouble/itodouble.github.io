@@ -12,8 +12,6 @@
 
 [关于Apache mod_rewrite的中文配置、使用和语法介绍（实现URL重写和防盗链功能）](./apache和tomcat/关于Apache mod_rewrite的中文配置、使用和语法介绍（实现URL重写和防盗链功能）.html)
 
-[direct.txt](./direct.txt.html)
-
 ### java
 
 [从JDK8到JDK17的新特性](./java/从JDK8到JDK17的新特性.html)
@@ -158,15 +156,23 @@
 
 [nginx负载均衡](./nginx/nginx负载均衡.html)
 
-[proxy.txt](./proxy.txt.html)
+### proxy
+
+[direct.txt](./proxy/direct.txt.html)
+
+### loon
+
+[direct.list](./loon/direct.list.html)
+
+[proxy.txt](./proxy/proxy.txt.html)
+
+[reject.txt](./proxy/reject.txt.html)
 
 ### redis
 
 [redis在传统springMVC中的使用](./redis/redis在传统springMVC中的使用.html)
 
 [redis数据类型](./redis/redis数据类型.html)
-
-[reject.txt](./reject.txt.html)
 
 ### 前端
 
