@@ -2,10 +2,6 @@
 
 [Apache URL 重写](./apache和tomcat/Apache URL 重写.html)
 
-[Apache和Tomcat整合配置实现JAVA应用的“动静”分离](./apache和tomcat/Apache和Tomcat整合配置实现JAVA应用的“动静”分离.html)
-
-[apache mod_evasive](./apache和tomcat/apache mod_evasive.html)
-
 [apache域名重定向301重定向](./apache和tomcat/apache域名重定向301重定向.html)
 
 [tomcat 本地 https](./apache和tomcat/tomcat 本地 https.html)
@@ -14,7 +10,11 @@
 
 ### java
 
+[apache mod_evasive](./apache和tomcat/apache mod_evasive.html)
+
 [从JDK8到JDK17的新特性](./java/从JDK8到JDK17的新特性.html)
+
+[Apache和Tomcat整合配置实现JAVA应用的“动静”分离](./apache和tomcat/Apache和Tomcat整合配置实现JAVA应用的“动静”分离.html)
 
 ### linux
 
