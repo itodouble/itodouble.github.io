@@ -164,6 +164,8 @@
 
 [direct.list](./loon/direct.list.html)
 
+[reject.list](./loon/reject.list.html)
+
 [proxy.txt](./proxy/proxy.txt.html)
 
 [reject.txt](./proxy/reject.txt.html)
