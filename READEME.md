@@ -2,9 +2,9 @@
 
 [Apache URL 重写](./apache和tomcat/Apache URL 重写.html)
 
-[apache mod_evasive](./apache和tomcat/apache mod_evasive.html)
-
 [Apache和Tomcat整合配置实现JAVA应用的“动静”分离](./apache和tomcat/Apache和Tomcat整合配置实现JAVA应用的“动静”分离.html)
+
+[apache mod_evasive](./apache和tomcat/apache mod_evasive.html)
 
 [apache域名重定向301重定向](./apache和tomcat/apache域名重定向301重定向.html)
 
@@ -14,7 +14,7 @@
 
 ### host
 
-[ms-onedrive.txt](./host/ms-onedrive.txt.html)
+[microsoft.txt](./host/microsoft.txt.html)
 
 ### java
 
@@ -60,8 +60,6 @@
 
 [gitlab](./linux/gitlab.html)
 
-[java环境](./linux/java环境.html)
-
 [mysql导出备份以及导入](./linux/mysql导出备份以及导入.html)
 
 [nextcloud安装](./linux/nextcloud安装.html)
@@ -73,6 +71,8 @@
 [rsync同步](./linux/rsync同步.html)
 
 [scp](./linux/scp.html)
+
+[java环境](./linux/java环境.html)
 
 [shell 中除法运算](./linux/shell 中除法运算.html)
 
@@ -94,13 +94,13 @@
 
 [yum 安装redis](./linux/yum 安装redis.html)
 
-[从svn更新最新代码 并编译](./linux/从svn更新最新代码 并编译.html)
+[删除指定后缀的文件](./linux/删除指定后缀的文件.html)
 
 [创建软连接](./linux/创建软连接.html)
 
-[删除指定后缀的文件](./linux/删除指定后缀的文件.html)
-
 [压缩 解压 tar.bz2 压缩率高](./linux/压缩 解压 tar.bz2 压缩率高.html)
+
+[从svn更新最新代码 并编译](./linux/从svn更新最新代码 并编译.html)
 
 [压缩 解压 zip](./linux/压缩 解压 zip.html)
 
@@ -110,9 +110,9 @@
 
 [定时任务](./linux/定时任务.html)
 
-[定时切割mysql慢查询日志](./linux/定时切割mysql慢查询日志.html)
-
 [把脚本置为系统服务chkconfig](./linux/把脚本置为系统服务chkconfig.html)
+
+[定时切割mysql慢查询日志](./linux/定时切割mysql慢查询日志.html)
 
 [挂载硬盘](./linux/挂载硬盘.html)
 
@@ -184,9 +184,9 @@
 
 [JS字符串替换](./前端/JS字符串替换.html)
 
-[ajax跨域问题](./前端/ajax跨域问题.html)
-
 [ajax返回json解析](./前端/ajax返回json解析.html)
+
+[ajax跨域问题](./前端/ajax跨域问题.html)
 
 [iFrame跨域 高度 传值](./前端/iFrame跨域 高度 传值.html)
 
