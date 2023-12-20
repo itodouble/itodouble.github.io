@@ -1,0 +1,6 @@
+13.107.42.13	 	onedrive.live.com
+104.244.43.35		onedrive.live.com
+13.107.43.13		onedrive.live.com
+20.135.1.4			skyapi.onedrive.live.com
+40.90.130.197		skyapi.onedrive.live.com
+20.135.2.0			skyapi.onedrive.live.com
