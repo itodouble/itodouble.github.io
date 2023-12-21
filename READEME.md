@@ -76,9 +76,9 @@
 
 [java环境](./linux/java环境.html)
 
-[mysql导出备份以及导入](./linux/mysql导出备份以及导入.html)
-
 [nextcloud安装](./linux/nextcloud安装.html)
+
+[mysql导出备份以及导入](./linux/mysql导出备份以及导入.html)
 
 [nginx 静态目录加密码](./linux/nginx 静态目录加密码.html)
 
@@ -88,17 +88,17 @@
 
 [scp](./linux/scp.html)
 
-[shell 循环](./linux/shell 循环.html)
-
 [shell 中除法运算](./linux/shell 中除法运算.html)
+
+[shell 循环](./linux/shell 循环.html)
 
 [shell中判断字符串是否为空](./linux/shell中判断字符串是否为空.html)
 
 [shell关于文件和文件夹的操作](./linux/shell关于文件和文件夹的操作.html)
 
-[unzip 中文乱码](./linux/unzip 中文乱码.html)
-
 [vim字符串替换](./linux/vim字符串替换.html)
+
+[unzip 中文乱码](./linux/unzip 中文乱码.html)
 
 [vim配置tab四个空格](./linux/vim配置tab四个空格.html)
 
@@ -116,9 +116,9 @@
 
 [压缩 解压 tar.bz2 压缩率高](./linux/压缩 解压 tar.bz2 压缩率高.html)
 
-[压缩 解压 zip](./linux/压缩 解压 zip.html)
-
 [发送mail](./linux/发送mail.html)
+
+[压缩 解压 zip](./linux/压缩 解压 zip.html)
 
 [安装字体](./linux/安装字体.html)
 
@@ -161,10 +161,6 @@
 ### memcached
 
 [memcached添加服务脚本](./memcached/memcached添加服务脚本.html)
-
-[memcached启动](./memcached/memcached启动.html)
-
-### nginx
 
 [nginx代理](./nginx/nginx代理.html)
 
@@ -221,4 +217,8 @@
 [页面加载后执行](./前端/页面加载后执行.html)
 
 [收藏夹](./收藏夹.html)
+
+[memcached启动](./memcached/memcached启动.html)
+
+### nginx
 
