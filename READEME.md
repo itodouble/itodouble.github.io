@@ -8,11 +8,13 @@
 
 [apache域名重定向301重定向](./apache和tomcat/apache域名重定向301重定向.html)
 
-[关于Apache mod_rewrite的中文配置、使用和语法介绍（实现URL重写和防盗链功能）](./apache和tomcat/关于Apache mod_rewrite的中文配置、使用和语法介绍（实现URL重写和防盗链功能）.html)
-
 [tomcat 本地 https](./apache和tomcat/tomcat 本地 https.html)
 
+[关于Apache mod_rewrite的中文配置、使用和语法介绍（实现URL重写和防盗链功能）](./apache和tomcat/关于Apache mod_rewrite的中文配置、使用和语法介绍（实现URL重写和防盗链功能）.html)
+
 ### host
+
+[cloudflare.txt](./host/cloudflare.txt.html)
 
 [jsdelivr.txt](./host/jsdelivr.txt.html)
 
@@ -84,19 +86,19 @@
 
 [rsync同步](./linux/rsync同步.html)
 
-[shell 中除法运算](./linux/shell 中除法运算.html)
-
 [scp](./linux/scp.html)
 
 [shell 循环](./linux/shell 循环.html)
+
+[shell 中除法运算](./linux/shell 中除法运算.html)
 
 [shell中判断字符串是否为空](./linux/shell中判断字符串是否为空.html)
 
 [shell关于文件和文件夹的操作](./linux/shell关于文件和文件夹的操作.html)
 
-[vim字符串替换](./linux/vim字符串替换.html)
-
 [unzip 中文乱码](./linux/unzip 中文乱码.html)
+
+[vim字符串替换](./linux/vim字符串替换.html)
 
 [vim配置tab四个空格](./linux/vim配置tab四个空格.html)
 
@@ -116,21 +118,21 @@
 
 [压缩 解压 zip](./linux/压缩 解压 zip.html)
 
+[发送mail](./linux/发送mail.html)
+
 [安装字体](./linux/安装字体.html)
 
 [定时任务](./linux/定时任务.html)
 
 [定时切割mysql慢查询日志](./linux/定时切割mysql慢查询日志.html)
 
-[发送mail](./linux/发送mail.html)
-
 [把脚本置为系统服务chkconfig](./linux/把脚本置为系统服务chkconfig.html)
 
 [挂载硬盘](./linux/挂载硬盘.html)
 
-[本地https证书生成](./linux/本地https证书生成.html)
-
 [最小化安装之后](./linux/最小化安装之后.html)
+
+[本地https证书生成](./linux/本地https证书生成.html)
 
 [查看端口](./linux/查看端口.html)
 
@@ -152,15 +154,15 @@
 
 [重新更换keygen](./linux/重新更换keygen.html)
 
-[maven打包跳过测试](./maven/maven打包跳过测试.html)
-
 ### maven
+
+[maven打包跳过测试](./maven/maven打包跳过测试.html)
 
 ### memcached
 
-[memcached启动](./memcached/memcached启动.html)
-
 [memcached添加服务脚本](./memcached/memcached添加服务脚本.html)
+
+[memcached启动](./memcached/memcached启动.html)
 
 ### nginx
 
@@ -190,11 +192,11 @@
 
 [redis在传统springMVC中的使用](./redis/redis在传统springMVC中的使用.html)
 
+[redis数据类型](./redis/redis数据类型.html)
+
 ### 前端
 
 [JS字符串替换](./前端/JS字符串替换.html)
-
-[redis数据类型](./redis/redis数据类型.html)
 
 [ajax跨域问题](./前端/ajax跨域问题.html)
 
