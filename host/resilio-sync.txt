@@ -1,0 +1,10 @@
+### Resilio Sync
+#### config.getsync.com
+13.35.7.33 		config.getsync.com
+## 13.224.160.88 	config.getsync.com
+## 13.225.99.92 	config.getsync.com
+13.35.7.5 		config.getsync.com
+13.224.160.30 	config.getsync.com
+13.35.24.19		config.getsync.com
+## 13.225.103.120  config.getsync.com
+## 13.225.103.11   config.getsync.com
