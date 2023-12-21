@@ -2,29 +2,31 @@
 
 [Apache URL 重写](./apache和tomcat/Apache URL 重写.html)
 
-[Apache和Tomcat整合配置实现JAVA应用的“动静”分离](./apache和tomcat/Apache和Tomcat整合配置实现JAVA应用的“动静”分离.html)
-
 [apache mod_evasive](./apache和tomcat/apache mod_evasive.html)
 
 [apache域名重定向301重定向](./apache和tomcat/apache域名重定向301重定向.html)
 
 [tomcat 本地 https](./apache和tomcat/tomcat 本地 https.html)
 
-### host
+[Apache和Tomcat整合配置实现JAVA应用的“动静”分离](./apache和tomcat/Apache和Tomcat整合配置实现JAVA应用的“动静”分离.html)
 
 [关于Apache mod_rewrite的中文配置、使用和语法介绍（实现URL重写和防盗链功能）](./apache和tomcat/关于Apache mod_rewrite的中文配置、使用和语法介绍（实现URL重写和防盗链功能）.html)
+
+### host
 
 [microsoft.txt](./host/microsoft.txt.html)
 
 [other-block.txt](./host/other-block.txt.html)
 
+[resilio-sync.txt](./host/resilio-sync.txt.html)
+
 [思杰马克丁.txt](./host/思杰马克丁.txt.html)
+
+### java
 
 [从JDK8到JDK17的新特性](./java/从JDK8到JDK17的新特性.html)
 
 ### linux
-
-### java
 
 [&和&&｜和¦和¦¦](./linux/&和&&｜和¦和¦¦.html)
 
@@ -38,9 +40,9 @@
 
 [Jenkins安装](./linux/Jenkins安装.html)
 
-[Jenkins自动化docker镜像](./linux/Jenkins自动化docker镜像.html)
-
 [KVM-Virsh命令](./linux/KVM-Virsh命令.html)
+
+[Jenkins自动化docker镜像](./linux/Jenkins自动化docker镜像.html)
 
 [centos docker sshd 服务](./linux/centos docker sshd 服务.html)
 
@@ -52,9 +54,9 @@
 
 [centos7 安装aria2](./linux/centos7 安装aria2.html)
 
-[centos7 时区](./linux/centos7 时区.html)
-
 [centos7添加tomcat到服务](./linux/centos7添加tomcat到服务.html)
+
+[centos7 时区](./linux/centos7 时区.html)
 
 [curl](./linux/curl.html)
 
@@ -64,8 +66,6 @@
 
 [gitlab](./linux/gitlab.html)
 
-[java环境](./linux/java环境.html)
-
 [mysql导出备份以及导入](./linux/mysql导出备份以及导入.html)
 
 [nextcloud安装](./linux/nextcloud安装.html)
@@ -74,21 +74,23 @@
 
 [nmap 端口扫描](./linux/nmap 端口扫描.html)
 
-[rsync同步](./linux/rsync同步.html)
+[java环境](./linux/java环境.html)
 
 [scp](./linux/scp.html)
 
 [shell 中除法运算](./linux/shell 中除法运算.html)
 
-[shell 循环](./linux/shell 循环.html)
+[rsync同步](./linux/rsync同步.html)
 
 [shell中判断字符串是否为空](./linux/shell中判断字符串是否为空.html)
 
+[shell 循环](./linux/shell 循环.html)
+
 [shell关于文件和文件夹的操作](./linux/shell关于文件和文件夹的操作.html)
 
-[vim字符串替换](./linux/vim字符串替换.html)
-
 [unzip 中文乱码](./linux/unzip 中文乱码.html)
+
+[vim字符串替换](./linux/vim字符串替换.html)
 
 [vim配置tab四个空格](./linux/vim配置tab四个空格.html)
 
@@ -170,9 +172,9 @@
 
 ### loon
 
-[direct.list](./loon/direct.list.html)
-
 [reject.list](./loon/reject.list.html)
+
+[direct.list](./loon/direct.list.html)
 
 [proxy.txt](./proxy/proxy.txt.html)
 
@@ -186,6 +188,8 @@
 
 ### 前端
 
+[JS字符串替换](./前端/JS字符串替换.html)
+
 [ajax跨域问题](./前端/ajax跨域问题.html)
 
 [ajax返回json解析](./前端/ajax返回json解析.html)
@@ -197,8 +201,6 @@
 ### vue
 
 [vue 弹窗](./vue/vue 弹窗.html)
-
-[JS字符串替换](./前端/JS字符串替换.html)
 
 [vuedialog必须点按钮关闭](./vue/vuedialog必须点按钮关闭.html)
 
