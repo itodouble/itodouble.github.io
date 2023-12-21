@@ -1,0 +1,17 @@
+## themoviedb
+13.225.142.15			image.tmdb.org
+13.225.142.59			image.tmdb.org
+13.225.142.99			image.tmdb.org
+13.225.142.118		image.tmdb.org
+
+13.35.166.27			api.themoviedb.org
+13.226.228.7			api.themoviedb.org
+104.16.241.118		api.themoviedb.org
+104.16.242.118    api.themoviedb.org
+
+13.35.166.63 			www.themoviedb.org
+13.226.228.7 			www.themoviedb.org
+13.226.228.86 		www.themoviedb.org
+54.192.18.100 		www.themoviedb.org
+99.84.140.112 		www.themoviedb.org
+99.84.140.90 			www.themoviedb.org
