@@ -1,0 +1,5 @@
+### cdn.jsdelivr.net
+104.16.85.20  	cdn.jsdelivr.net
+104.16.86.20 	cdn.jsdelivr.net
+104.16.88.20 	cdn.jsdelivr.net
+104.16.89.20 	cdn.jsdelivr.net
